@@ -1,0 +1,27 @@
+*{
+    list-style: none;
+    text-decoration: none;
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+    background-color: indigo;
+}
+
+nav .navbar-brand{
+    font-size: 20px;
+    color: rgb(231, 231, 163);
+    margin-top: 20px;
+    font-weight: 800;
+}
+
+ul{
+    display: flex;
+}
+ul li{
+    margin: 10px;
+}
+ul li a{
+    color: #fff;
+}
